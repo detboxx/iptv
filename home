@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="-เครดิต:Android-แบ่งปัน-",11.06.2020.G2 15:40 น.
+#EXTINF:0 tvg-id="ext" group-title="-เครดิต:Android-แบ่งปัน-",17.06.2020.G1 19:09 น.
 http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Digital.TV",CH3
@@ -57,7 +57,7 @@ http://27.254.130.64/live01/ch3.m3u8?p=st
 #EXTINF:0 tvg-id="ext" group-title="Digital.TV",True4U
 https://livedoomovies.com/02_TRUE4U_480p/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Digital.TV",True4U
-http://160.119.77.50/iptv/sd-24u.stream/playlist.m3u8
+https://cdn-laos.workpoint.news/sd-24u_480/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Digital.TV",Workpoint
 http://160.119.77.50/iptv/hd-workpoint.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Digital.TV",Workpoint SD
@@ -103,6 +103,16 @@ https://dltv-live-edge.catcdn.cloud/dltv15_720p/index.m3u8
 #EXTINF:0 tvg-id="ETV.ee" group-title="Digital.TV",ETV SD
 http://150.95.66.20:1935/live/livestream/playlist.m3u8
 
+#EXTINF:0 tvg-id="ext" group-title="Variety",arirang Korea(FHD)
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Variety",News 1
+https://cdn-laos.workpoint.news/sd-news1_480/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Variety",MONO29
+http://183.182.100.184/live/mono29/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Variety",MONO Plus
+https://edge2-bkk.3bb.co.th:9443/MonoPlus_LiveHLS/monoplusLive_HLS1080p.stream/chunklist_w249474470.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Variety",Mono Plus
+https://edge4-bkk.3bb.co.th:9443/MonoPlus_LiveHLS/monoplusLive_HLS1080p.stream/chunklist_w277059434.m3u8
 #EXTINF:0 tvg-id="arirang-en" group-title="Variety",Arirang
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Variety",MVTV
@@ -125,6 +135,26 @@ http://news1.live14.com/stream/news1_hi.m3u8
 http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Variety",Yateem TV (New!)
 https://vdo.plathong.net/wowza/muslimonair1/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Variety",Voice TV
+https://edge2a.v2h-cdn.com/appt3/WOWSH.stream_720p/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Variety",Hi Sport
+http://203.154.243.31:8081/live/hisport/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Variety",4050
+http://96.30.124.101:1935/psilive3a/40_50.stream_360p/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Variety",ฟ้าวันใหม่
+https://5cb6516c3cb37.streamlock.net/bluesky/bluesky/chunklist_w1506840154.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Variety",สุวรรณภูมิ TV
+http://203.146.129.233:1935/live/mp4:suwan/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Variety",Daradaily
+http://27.254.130.64/live01/ch16.m3u8?p=st
+#EXTINF:0 tvg-id="ext" group-title="Variety",มังกร
+http://96.30.124.101:1935/psilive3a/Mangorn.stream_360p/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Variety",DOONEE
+http://96.30.124.101:1935/psilive2a/DOONEE.stream_360p/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Variety",ลูกทุ่ง TVHD
+https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Variety",พระเครื่อง อ.ไบร์
+https://livefta.malimarcdn.com/ftaedge00/briantv.sdp/playlist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Sports",Premier HD1
 http://160.119.77.50/iptv/epl-1.stream/playlist.m3u8
@@ -152,6 +182,8 @@ https://cdn-laos.workpoint.news/hd-nfl_720/index.m3u8
 http://203.154.243.31:8081/live/snooker/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",Edge Sports
 http://160.119.77.50/iptv/hd-edge.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",SKYNET HD sport
+http://27.254.149.109:8081/tumlive/SKYNETHD/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",SKYNET1 sport
 http://27.254.149.109:8081/tumlive/SKYNET1/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",SKYNET2 sport
@@ -164,30 +196,36 @@ http://27.254.149.109:8081/tumlive/SKYNET4/chunks.m3u8
 http://27.254.149.109:8081/tumlive/SKYNET5/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",SKYNET6 sport
 http://27.254.149.109:8081/tumlive/SKYNET6/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",SKYNET8 sport
-http://27.254.149.109:8081/tumlive/SKYNETHD/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Fox 2 TH
-http://160.119.77.50/iptv/sd-foxsports2.stream/playlist.m3u8
+#EXTINF:0 tvg-id="FOXSports1.us" group-title="Sports",Fox Sports 1
+http://160.119.77.50/iptv/hd-foxsports1.stream/playlist.m3u8
+#EXTINF:0 tvg-id="FoxSports.it" group-title="Sports",Fox Sports
+https://tv4.chang55.com:446/live2/tv4ch95.stream/chunks.m3u8
 #EXTINF:0 tvg-id="FoxSports2.mx" group-title="Sports",Fox Sports 2
 http://103.208.24.234:1935/thaisport/sd-foxsports2.stream/chunklist.m3u8
+#EXTINF:0 tvg-id="FoxSports2.mx" group-title="Sports",Fox Sports 2
+https://tv4.chang55.com:446/live2/tv4ch35.stream/chunks.m3u8
 #EXTINF:0 tvg-id="FoxSports3.mx" group-title="Sports",Fox Sports 3
 http://103.208.24.234:1935/thaisport/sd-foxsports3.stream/chunklist.m3u8
+#EXTINF:0 tvg-id="FoxSports3.mx" group-title="Sports",Fox Sports 3
+https://tv4.chang55.com:446/live2/tv4ch38.stream/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",beIN SPORTS1
+https://tv4.chang55.com:446/live2/tv4ch36.stream/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",beIN SPORTS2
+https://tv4.chang55.com:446/live2/tv4ch73.stream/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",true TENIS HD
+https://tv4.chang55.com:446/live2/tv4ch22.stream/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",Tennis
 http://160.119.77.50/iptv/hd-tennis.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Tennis
-http://103.208.24.234:1935/thaisport/hd-tennis.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="TennisChannel.us" group-title="Sports",Tennis Channel
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",TENNIS TV NEW
 http://203.154.243.31:8081/live/tennis/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",SNOOKER WORLD 1 HD
-http://203.154.243.31:8081/live/snooker/index.m3u8
-#EXTINF:0 tvg-id="RealMadridTV.sp" group-title="Sports",Real Madrid TV
-http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 #EXTINF:0 tvg-id="RealMadridTV.sp" group-title="Sports",Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
+#EXTINF:0 tvg-id="Golf.sp" group-title="Sports",GOLF
+https://tv4.chang55.com:446/live2/tv4ch24.stream/chunks.m3u8
 #EXTINF:0 tvg-id="Golf.fr" group-title="Sports",Golf channel
 http://160.119.77.50/iptv/hd-golf.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",One Golf
@@ -228,12 +266,50 @@ http://103.208.24.234:1935/thaisport/epl-4.stream/playlist.m3u8
 http://103.208.24.234:1935/thaisport/epl-5.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",Hi Sport HD
 http://203.154.243.31:8081/live/hisport/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Premier HD4
-http://27.254.149.109:8081/tumlive/TFBHD4/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",Sports-ManU TV
 https://cdn-laos.workpoint.news/uk-mutv_480/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",Sports-Liverpool TV
 https://cdn-laos.workpoint.news/uk-lfctv_480/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",skysports mainevent
+https://cdn-laos.workpoint.news/uk-skysports-mainevent_720/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",skysports golf
+https://cdn-laos.workpoint.news/uk-skysports-golf_720/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",skysports football
+https://cdn-laos.workpoint.news/uk-skysports-football_720/index.m3u8
+#EXTINF:0 tvg-id="SkySportsF1.uk" group-title="Sports",skysports f1
+https://cdn-laos.workpoint.news/uk-skysports-f1_720/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",skysports cricket
+https://cdn-laos.workpoint.news/uk-skysports-cricket_720/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",skysports arena
+https://cdn-laos.workpoint.news/uk-skysports-arena_720/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",skysports ction
+https://cdn-laos.workpoint.news/uk-skysports-action_720/index.m3u8
+#EXTINF:0 tvg-id="SkySportsNews.uk" group-title="Sports",skysports news
+https://cdn-laos.workpoint.news/uk-skysports-news_480/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",skysports mix
+https://cdn-laos.workpoint.news/uk-skysports-mix_480/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",true PREMIER FOOTBALL HD2
+https://tv4.chang55.com:446/live2/tv4ch11.stream/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",true PREMIER FOOTBALL HD3
+https://tv4.chang55.com:446/live2/tv4ch12.stream/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",true PREMIER FOOTBALL HD4
+https://tv4.chang55.com:446/live2/tv4ch13.stream/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",true PREMIER FOOTBALL HD5
+https://tv4.chang55.com:446/live2/tv4ch14.stream/chunks.m3u8
+#EXTINF:0 tvg-id="animal_rus" group-title="Sports",true sport HD
+https://tv4.chang55.com:446/live2/tv4ch18.stream/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",truesport 2
+https://tv4.chang55.com:446/live2/tv4ch78.stream/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",true sport HD3
+https://tv4.chang55.com:446/live2/tv4ch17.stream/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",truesport 7
+https://tv4.chang55.com:446/live2/tv4ch77.stream/chunks.m3u8
+#EXTINF:0 tvg-id="FightSports.svn" group-title="Sports",FIGHT SPORTS
+https://tv4.chang55.com:446/live2/tv4ch44.stream/chunks.m3u8
+#EXTINF:0 tvg-id="esp" group-title="Sports",EUROSPORT
+https://tv4.chang55.com:446/live2/tv4ch45.stream/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",NET SPORTS+
+https://tv4.chang55.com:446/live2/tv4ch46.stream/chunks.m3u8
 
 #EXTINF:0 tvg-id="mtvlive-hd" group-title="Entertainment",MTV LIVE
 http://160.119.77.50/iptv/hd-mtvlive.stream/playlist.m3u8
@@ -258,7 +334,7 @@ http://203.154.243.31:8081/live/h-channel/index.m3u8
 http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Movie",TV CABLE 5
 http://www.m-channel.com:1935/live/my_stream.sdp/chunklist_w439724723.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Movie",TV-CABLE 6
+#EXTINF:0 tvg-id="ext" group-title="Movie",TV CABLE 6
 http://d34e90s3s13i7n.cloudfront.net:80/hls/ch8ctv/master02.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Movie",TV CABLE 7(CHANNEL8)
 http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
@@ -282,18 +358,26 @@ http://27.254.149.109:8081/tumlive/ipmskyworldhd3.stream/chunks.m3u8
 http://27.254.149.109:8081/tumlive/ipmskyworldhd4.stream/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Movie",Series+HD
 http://27.254.149.109:8081/tumlive/ipmaser.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movie",HBO The Peanuts Movie(EN)
+https://tv4.chang55.com:446/live2/tv4ch30.stream/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Movie",HBO-TH
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Movie",HBO-EN HD
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movie",HBO(EN)
+https://tv4.chang55.com:446/live2/tv4ch25.stream/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Movie",HBO RED-TH
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Movie",HBO RED HD
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movie",HBO RED-EN
+https://tv4.chang55.com:446/live2/tv4ch47.stream/chunks.m3u8
+#EXTINF:0 tvg-id="HBOHits.in" group-title="Movie",HBO HITS
+https://tv4.chang55.com:446/live2/tv4ch42.stream/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Movie",HBO HITS   HD
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 #EXTINF:0 tvg-id="HBOFamilyHD.cl" group-title="Movie",HBO Family HD
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+#EXTINF:0 tvg-id="Hbofamily.br" group-title="Movie",HBO Family
+https://tv4.chang55.com:446/live2/tv4ch50.stream/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Movie",HBO Family SUB
 https://tv4.chang55.com:446/live2/tv4ch50.stream/chunks.m3u8
 #EXTINF:0 tvg-id="HBOSignature.us" group-title="Movie",hbo signature HD
@@ -308,20 +392,34 @@ http://27.254.149.109:8081/tumlive/TrueAsiaHD/chunks.m3u8
 http://160.119.77.50/iptv/hd-asian.stream/playlist.m3u8
 #EXTINF:0 tvg-id="SunTv.in" group-title="Movie",Sun TV
 http://160.119.77.50/iptv/in-suntv.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Movie",Sunmovie(TH)
+#EXTINF:0 tvg-id="ext" group-title="Movie",Sunmovie(TH)(ตาย)
 http://27.254.149.109:8081/tumlive/Sunmovie/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movie",true THAIFILM(TH)
+https://tv4.chang55.com:446/live2/tv4ch86.stream/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Movie",True Movie Hits
 http://27.254.149.109:8081/tumlive/MOVH/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movie",Movie ไทย (???)
+https://tv4.chang55.com:446/live2/tv4ch95.stream/chunks.m3u8
 #EXTINF:0 tvg-id="fox-life" group-title="Movie",FOXlife
 http://27.254.149.109:8081/tumlive/Foxlife/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movie",FOXlife(EN)
+https://tv4.chang55.com:446/live2/tv4ch84.stream/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Movie",FOX MOVIES(TH)
 https://www.livedoomovies.com/02_FoxMoviesTH_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movie",FoxMOVIES(EN)
+https://tv4.chang55.com:446/live2/tv4ch26.stream/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movie",FOX MOVIES(THSub)
+https://tv4.chang55.com:446/live2/tv4ch90.stream/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movie",FOX Thai(TH)
+https://tv4.chang55.com:446/live2/tv4ch89.stream/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Movie",FOX Thai(TH)
 http://160.119.77.50/iptv/sd-fox.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Movie",FOX Thai(TH)
 https://livedoomovies.com/02_FoxThai_TH_720p/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Movie",FOX ACTION(EN)
 http://160.119.77.50/iptv/hd-foxaction.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movie",FOX family MOVIES
+https://tv4.chang55.com:446/live2/tv4ch91.stream/chunks.m3u8
 #EXTINF:0 tvg-id="fox-crime" group-title="Movie",fox crime
 http://160.119.77.50/iptv/hd-foxcrimeeng.stream/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Movie",M Channel(TH)
@@ -374,12 +472,58 @@ http://210.210.155.66/h/h37/index.m3u8
 https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Movie",CCTV4(CH)
 http://ivi.bupt.edu.cn/hls/cctv4.m3u8
+#EXTINF:0 tvg-id="Universal.uk" group-title="Movie",UNIVERSAL
+https://tv4.chang55.com:446/live2/tv4ch43.stream/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movie",&FlixHd
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movie",&PriveHd
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="bollywood-hd" group-title="Movie",Bollywood
+http://a.jsrdn.com/broadcast/d5b45/+0000/high/c.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movie",Docurama
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/1920x1080_4528000/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movie",Filmrise Classic
+http://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movie",Filmrise Family
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/1280x720_5000000/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movie",Filmrise Movies
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/1280x720_5000000/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movie",filmrise crime
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_2500000/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movie",FilmRise Sci-Fi
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movie",FilmRise Mysteries
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movie",Film Hub
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/1280x720_2500000/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movie",Gravitas moxies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/1280x720_5000000/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movie",Hi Yah!
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/1280x720_5000000/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movie",Ifilm
+http://mn-nl.mncdn.com/ifilm/smil:ifilmen.smil/chunklist_b1096000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movie",Maverick mMovies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/1280x720_5000000/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movie",Mgm Scifi
+https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movie",MNX Movies
+https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movie",Movie Kingdom
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
+#EXTINF:0 tvg-id="RomedyNow.in" group-title="Movie",Romedy Now
+https://timesnow.airtel.tv/live/RN_pull/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movie",Screamfest
+https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
 
+#EXTINF:0 tvg-id="cnn" group-title="News",CNN LIVE
+https://tv4.chang55.com:446/live2/tv4ch27.stream/chunks.m3u8
 #EXTINF:0 tvg-id="cnn" group-title="News",CNN LIVE
 https://tv4.chang55.com:446/live2/tv4ch27.stream/chunks.m3u8
 #EXTINF:0 tvg-id="BBCNews.nws" group-title="News",BBC NEWS
 http://160.119.77.50/iptv/uk-bbcnewshd.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News",BreaKingNews
+#EXTINF:0 tvg-id="ext" group-title="News",BBC WORKD NEWS(EN)
+https://tv4.chang55.com:446/live2/tv4ch28.stream/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",BreaKingNew
 https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 #EXTINF:0 tvg-id="ext" group-title="News",CBS NEWS
 https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
@@ -394,11 +538,15 @@ http://160.119.77.50/iptv/uk-foxnews.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="News",Fox Sport News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:0 tvg-id="Skynews.gr" group-title="News",Sky News
+https://cdn-laos.workpoint.news/uk-skynews_480/index.m3u8
+#EXTINF:0 tvg-id="Skynews.gr" group-title="News",Sky News
 http://160.119.77.50/iptv/uk-skynews.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="News",TVBS HD
 http://60.199.188.65:80/HLS/WG_TVBS-N/02.m3u8
 #EXTINF:0 tvg-id="ext" group-title="News",NDTV24X7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+#EXTINF:0 tvg-id="nhk-world" group-title="News",NHK WORLD
+https://cdn-laos.workpoint.news/sd-nhkworld_720/index.m3u8
 #EXTINF:0 tvg-id="nhk-world" group-title="News",NHK WORLD
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
 #EXTINF:0 tvg-id="ext" group-title="News",NHK WORLD(JAPAN)
@@ -413,14 +561,10 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 http://210.210.155.35/uq2663/h/h29/01.m3u8?fluxustv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="News",SKY NEWS EXTRA
 http://skynewsau-live.akamaized.net:80/hls/live/2002691/skynewsau-extra3/master960x540.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News",BreaKingNews
-https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 #EXTINF:0 tvg-id="ext" group-title="News",Bast of Chicago
 http://wgntribune-lh.akamaihd.net:80/i/WGNPrimary_1@304622/index_1200_av-p.m3u8?sd=10&rebase=on6ffa8942b00a69.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAxOCAzOjMyOjEyIEFNJmhhc2hfdmFsdWU9ek5zQWd0TmZmbHFvQXZZYTNoYlo5UT09JnZhbGlkbWludXRlcz0yJmlkPW1mb290YmFsbDR8OTExfGlwdHZoZXJvfDE1MzkzMTUxMzJ8MS40Ni45OS4xNDk=
 #EXTINF:0 tvg-id="Cbn.br" group-title="News",CBN
 http://bcliveuniv-lh.akamaihd.net:80/i/iptv1_1@194050/index_2000_av-b.m3u8?sd=10&rebase=on
-#EXTINF:0 tvg-id="ext" group-title="News",ALIAZEERA
-https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:0 tvg-id="ext" group-title="News",Australia channel
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
 #EXTINF:0 tvg-id="WNBCNewYorkNBCEast.us" group-title="News",NBC
@@ -429,8 +573,6 @@ http://161.0.157.50:80/PLTV/88888888/224/3221227040/3.m3u8
 http://58e5fdd27293a.streamlock.net:1935/friesischerRundfunk-live/_definst_/mp4:friesischerrundfunk/playlist.m3u8
 #EXTINF:0 tvg-id="FOXSports1.us" group-title="News",FS1
 http://stream.fs1.tv:8080/hls/webstream.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News",Best Of Chicago
-http://wgntribune-lh.akamaihd.net:80/i/WGNPrimary_1@304622/index_1200_av-p.m3u8?sd=10&rebase=on6ffa8942b00a69.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAxOCAzOjMyOjEyIEFNJmhhc2hfdmFsdWU9ek5zQWd0TmZmbHFvQXZZYTNoYlo5UT09JnZhbGlkbWludXRlcz0yJmlkPW1mb290YmFsbDR8OTExfGlwdHZoZXJvfDE1MzkzMTUxMzJ8MS40Ni45OS4xNDk=
 #EXTINF:0 tvg-id="russia-today" group-title="News",Russia Today
 https://rt-uk.secure.footprint.net/1106.m3u8?fluxustv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="News",CBS 47
@@ -439,8 +581,6 @@ http://svc-lvanvato-cxtv-wjax.cmgvideo.com/wjax/2564k/index.m3u8
 https://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master_2200.m3u8
 #EXTINF:0 tvg-id="ext" group-title="News",US:CBN News
 http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News",US:CBS News
-https://www.cbsnews.com/common/video/dai_prod.m3u8
 #EXTINF:0 tvg-id="ABCNews.al" group-title="News",ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:0 tvg-id="ext" group-title="News",Cheddar News
@@ -490,11 +630,19 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="News",US:SBN Global
 http://sonlife10-i.akamaihd.net/hls/live/585013/ch10/master.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Documentary",AnimalPlanet(TH)
-https://tv4.chang55.com:446/live2/tv4ch89.stream/chunks.m3u8
-#EXTINF:0 tvg-id="BBCEarth.pl" group-title="Documentary",BBC EARTH
+#EXTINF:0 tvg-id="ext" group-title="Documentary",aninal planet
+https://tv4.chang55.com:446/live2/tv4ch37.stream/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Documentary",aninal planet(TH)
+https://tv4.chang55.com:446/live2/tv4ch81.stream/chunks.m3u8
+#EXTINF:0 tvg-id="BBCEarth.pl" group-title="Documentary",BBC Earth
+https://tv4.chang55.com:446/live2/tv4ch41.stream/chunks.m3u8
+#EXTINF:0 tvg-id="BBCEarth.pl" group-title="Documentary",BBC Earth
 http://160.119.77.50/iptv/sd-bbcearth.stream/playlist.m3u8
-#EXTINF:0 tvg-id="BBCLifestyle.pl" group-title="Documentary",BBC LIFESTYLE
+#EXTINF:0 tvg-id="BBCEarth.pl" group-title="Documentary",BBC Earth
+https://cdn-laos.workpoint.news/sd-bbcearth_720/index.m3u8
+#EXTINF:0 tvg-id="BBCLifestyle.pl" group-title="Documentary",BBC Lifestyle
+https://cdn-laos.workpoint.news/sd-bbclifestyle_720/index.m3u8
+#EXTINF:0 tvg-id="BBCLifestyle.pl" group-title="Documentary",BBC Lifestyle
 http://160.119.77.50/iptv/sd-bbclifestyle.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Documentary",TRUE SCI(TH)
 http://160.119.77.50/iptv/sd-expsci.stream/playlist.m3u8
@@ -512,10 +660,20 @@ http://160.119.77.50/iptv/sd-explife.stream/playlist.m3u8
 http://160.119.77.50/iptv/sd-expsci.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Documentary",True Explore Wild TH
 http://160.119.77.50/iptv/sd-expwild.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Documentary",National Geographic HD(THSub)
+http://160.119.77.50/iptv/hd-natgeo.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Documentary",NAT GEO WILD(EN)
+http://160.119.77.50/iptv/hd-natgeowildeng.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Documentary",History TH
+https://cdn-laos.workpoint.news/hd-history_720/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Documentary",History TH
 https://tv4.chang55.com:446/live2/tv4ch21.stream/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Documentary",H2 TH
+#EXTINF:0 tvg-id="ext" group-title="Documentary",H2 HISTORY
 https://tv4.chang55.com:446/live2/tv4ch19.stream/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Documentary",H2 HISTORY(TH)
+http://160.119.77.50/iptv/hd-history2.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Documentary",H2 HISTORY(TH)
+https://cdn-laos.workpoint.news/hd-history2_720/index.m3u8
 #EXTINF:0 tvg-id="DiscoverySci.mx" group-title="Documentary",Discovery Sci
 https://streamidvo.multitvsolution.in/live/DiscoverScienceEng-a/p4.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Documentary",Food Network EN(THSub)
@@ -534,8 +692,12 @@ http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/ch
 http://160.119.77.50/iptv/hd-xzyte.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Documentary",true X-ZYTE HD
 https://cdn-laos.workpoint.news/hd-xzyte_720/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Documentary",Discovery Asia
+https://cdn-laos.workpoint.news/hd-discovery_720/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Documentary",Discovery asia
 https://cdn-laos.workpoint.news/hd-discovery_720/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Documentary",Discovery Asia
+https://tv4.chang55.com:446/live2/tv4ch92.stream/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Documentary",World Animal(TH)
 http://203.154.243.32:8088/live/wanimal/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Documentary",World SCIENCE(TH)
@@ -549,6 +711,10 @@ http://160.119.77.50/iptv/sd-sparkjump.stream/playlist.m3u8
 http://160.119.77.50/iptv/sd-sparkplay.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Kid",Disney XD(True)
 https://tv4.chang55.com:446/live2/tv4ch29.stream/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Kid",Disney XD(True)
+https://tv4.chang55.com:446/live2/tv4ch29.stream/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Kid",CN HD
+https://tv4.chang55.com:446/live2/tv4ch20.stream/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Kid",ANIMAX(THSub)
 http://203.154.243.31:8081/live/animax/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Kid",Miaomi
@@ -578,38 +744,60 @@ http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="JAPAN",NHK G HD
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
-#EXTINF:0 tvg-id="ext" group-title="JAPAN",NTV News24
-http://www.news24.jp/livestream/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="JAPAN",NTV News24 HD
-http://n24-cdn-live-b.ntv.co.jp/ch01/High.m3u8
 #EXTINF:0 tvg-id="ext" group-title="JAPAN",NHK World Japan
 http://210.210.155.35/uq2663/h/h23/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="JAPAN",NHK World Japan HD
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
+#EXTINF:0 tvg-id="ext" group-title="JAPAN",NHK General
+http://203.162.235.41:16903
+#EXTINF:0 tvg-id="Nhk.br" group-title="JAPAN",NHK World Premium
+http://203.162.235.41:16901
 #EXTINF:0 tvg-id="ext" group-title="JAPAN",BBC News Japan
 https://bbc1.media.ylive.jp/53ccb8ca9cb44762b3f1f4aecc85b7ba/ap-northeast-1/5690807595001/profile_0/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="JAPAN",WeatherNews
-http://movie.mcas.jp/mcas/wn1_2/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="JAPAN",WeatherNews
-http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
-#EXTINF:0 tvg-id="ext" group-title="JAPAN",TBS News
-https://tbs1.media.ylive.jp/d6d710ed2c204b4cb9ffea55a16a5f40/ap-northeast-1/5690807595001/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="JAPAN",Tokyo - Narita Airport
 http://movie.mcas.jp/mcas/gm2_2/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="JAPAN",ジャパネットチャンネルDX
 http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
 #EXTINF:0 tvg-id="ext" group-title="JAPAN",Shop Channel
 http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="JAPAN",TBS News
+https://tbs1.media.ylive.jp/d6d710ed2c204b4cb9ffea55a16a5f40/ap-northeast-1/5690807595001/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="JAPAN",BS Asahi
+http://203.162.235.41:16914
+#EXTINF:0 tvg-id="ext" group-title="JAPAN",BS Fuji
+http://203.162.235.41:16911
+#EXTINF:0 tvg-id="ext" group-title="JAPAN",BS Japan
+http://203.162.235.41:16915
+#EXTINF:0 tvg-id="ext" group-title="JAPAN",BS NTV
+http://203.162.235.41:16912
+#EXTINF:0 tvg-id="ext" group-title="JAPAN",BS TBS
+http://203.162.235.41:16913
+#EXTINF:0 tvg-id="ext" group-title="JAPAN",Golf Network
+http://203.162.235.41:16924
 #EXTINF:0 tvg-id="ext" group-title="JAPAN",GSTV
 https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="JAPAN",MBS
+http://203.162.235.41:16910
+#EXTINF:0 tvg-id="ext" group-title="JAPAN",NJPW World
+https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8
+#EXTINF:0 tvg-id="ext" group-title="JAPAN",Nippon TV
+http://203.162.235.41:16905
+#EXTINF:0 tvg-id="ext" group-title="JAPAN",NTV News24
+http://www.news24.jp/livestream/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="JAPAN",Shop Channel
+http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="JAPAN",TB (Opt-1)
+http://main1.mov3.co/hls/main.m3u8
+#EXTINF:0 tvg-id="ext" group-title="JAPAN",Tokyo MX 1
+https://movie.mcas.jp/switcher/smil:mcas1.smil/chunklist_b1800000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="JAPAN",WeatherNews
+http://movie.mcas.jp/mcas/wn1_2/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="JAPAN",WeatherNews
+http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
 #EXTINF:0 tvg-id="ext" group-title="JAPAN",Japanet Channel DX
 http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
 #EXTINF:0 tvg-id="ext" group-title="JAPAN",QVC Japan
 http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
-#EXTINF:0 tvg-id="ext" group-title="JAPAN",NYX 1
-https://cdn1.ibizastream.biz:441/free/1/playlist_dvr.m3u8
-#EXTINF:0 tvg-id="ext" group-title="JAPAN",NYX 2
-https://cdn1.ibizastream.biz:441/free/2/playlist_dvr.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="วิทยุ",96.5 คลื่นความคิด
 https://mcotdigital-9ksau4.cdn.byteark.com/RadioLive/smil:fm965_live.smil/chunklist_w673711091_b500000.m3u8
@@ -619,7 +807,7 @@ http://110.164.48.215:8000/smmradio
 https://mcotdigital-3bgyw0.cdn.byteark.com/radiocdn_edge/fm975.stream_aac/chunklist_w1644975532.m3u8
 #EXTINF:0 tvg-id="ext" group-title="วิทยุ",Chill FM
 http://real4.atimemedia.com/chill
-#EXTINF:0 tvg-id="ext" group-title="วิทยุ",Cool 93
+#EXTINF:0 tvg-id="ext" group-title="วิทยุ",Cool 93FM
 http://111.223.51.7:8100/;stream/1
 #EXTINF:0 tvg-id="ext" group-title="วิทยุ",Eazy FM
 https://wzedge1.becteroradio.com/Eazy/Eazy-Listen-High/chunklist_w1159801034.m3u8
@@ -638,6 +826,16 @@ http://112.121.151.133:8184/;&type=mp3
 #EXTINF:0 tvg-id="ext" group-title="วิทยุ",มิติข่าว 90.5
 http://live3.smartbomb.co.th:8624/stream/1/
 
+#EXTINF:0 tvg-id="avi" group-title="MOVIE VOD",Classic Again (2020) จดหมาย สายฝน ร่มวิเศษ
+http://movie.chang55.com/newmovie4/1Cwq0P05KP5Dg1A88jLOU1VK7xReGSPp-.mp4
+#EXTINF:0 tvg-id="ext" group-title="MOVIE VOD",Axone(2019) เมนูร้าวฉาน
+https://hls.123player.online:443/hls/208455d32852b07004078adaadd7ebd3/208455d32852b07004078adaadd7ebd3.m3u8
+#EXTINF:0 tvg-id="avi" group-title="MOVIE VOD",Still Missing (2020) พราก
+http://movie.chang55.com/newmovie4/1BdZtlWkiel9IQvhAu3shbnT-I5PqweFT.mp4
+#EXTINF:0 tvg-id="avi" group-title="MOVIE VOD",365 DNI(2020) (20+) ซับไทย
+http://movie.chang55.com/newmovie4/1CnL3feYJDOFak9j5EkoPiolPtK623j8h.mp4
+#EXTINF:0 tvg-id="avi" group-title="MOVIE VOD",365 DNI(2020) (20+) ซับไทย
+https://cache-edge1.movieclubhd.tv/hls/content/nas05/mvc/M/Inter/365_Days/365_Days_ST_2020.mp4/index.m3u8
 #EXTINF:0 tvg-id="avi" group-title="MOVIE VOD",ขุนแผน ฟ้าฟื้น
 https://cdn.movietok.is/vod/disk4/khunpe.mp4
 #EXTINF:0 tvg-id="avi" group-title="MOVIE VOD",โจรปล้นโจร
@@ -692,6 +890,26 @@ https://glus-st.mthcdn.com/stream/video02/2018/01/14/1515936618/1515936618_720.m
 https://glus-st.mthcdn.com/stream/video02/2018/02/08/1518069926/1518069926_720.mp4
 #EXTINF:0 tvg-id="avi" group-title="MOVIE VOD",จันดารา ปฐมบท 2
 https://glus-st.mthcdn.com/stream/video02/2018/02/08/1518069863/1518069863_720.mp4
+#EXTINF:0 tvg-id="ext" group-title="MOVIE VOD",Band of Brothers1
+https://lh3.googleusercontent.com/zFtkIwzbOKzRHb8hfcoYGPmnzufvAip7eViVzYdIejTOTfAt-EHe52fO5IhF-D93QpS8nhRwyPrwbISQZaJRkStsts4HznGK5KXIORgS32pcZQpQt0Gxz66XKJA4h-RyAG-2ZID2NQ=m18
+#EXTINF:0 tvg-id="ext" group-title="MOVIE VOD",Band of Brothers2
+https://lh3.googleusercontent.com/Qbyf5QGPH4DxknKy9vK9XNHTtvGXA2ggfzslMuG9b4d7EdTANXRQuGt8u8SPBWqhyEz6-xMf-4VNGHZwBf3puENIih2SD7Jzs7YjSvXE7kHLTPoP7W-74HtbWHT7cDDYm8hBz-NS3A=m18
+#EXTINF:0 tvg-id="ext" group-title="MOVIE VOD",Band of Brothers3
+https://lh3.googleusercontent.com/iyNSmvUr4l4-61HK_O5B4rZwagX4ruVdnb5jGkkhZNYBzPdM6WM008k8Pv7rHGjIv8xSKolHaPS7sFMxilABU6QMcYTzJ_WWDgeuwJvoGk1MMDJHREOYN4_6pDWqDWvXs9JVRP6icg=m18
+#EXTINF:0 tvg-id="ext" group-title="MOVIE VOD",Band of Brothers4
+https://lh3.googleusercontent.com/apRicF6sJsFYpZDc7qFeC92xkzBzpDMMFwjo7dG4JzshhHbgle4leJmM0NX7oJpUpM1IqluSDVq1kiuZpCazOyE8ISd41BKiGs97z-3UuXKZsrPmAsU0Bvu_riHkeNWXanhZkjXZeA=m18
+#EXTINF:0 tvg-id="ext" group-title="MOVIE VOD",Band of Brothers5
+https://lh3.googleusercontent.com/ccUg5KhB5dlyBYF3jNyetpweV3iVsDMMRq34Rgnsq-zpDkyrUnngFIrVDTvxNCZZG4zqW_YKIfiNA-U45LsdvLFFgoOS6lGlSIc3ztAID_cJxqkicC-S4BT_wd3Z5EGF8bUbeaSJ8Q=m18
+#EXTINF:0 tvg-id="ext" group-title="MOVIE VOD",Band of Brothers6
+https://lh3.googleusercontent.com/0UPfzShIBC8cWONQ92Zvm3a72t6tTPkStMM7VbKQBKikAGReo6OtZ9T_23W4UQEUzSDGmlpi9GZ7bWAEOZys-QIw92tYk_vs-UjHXXtZryQbxJqev28BSTiI2GaVmaT_2j7FR47vbA=m18
+#EXTINF:0 tvg-id="ext" group-title="MOVIE VOD",Band of Brothers7
+https://lh3.googleusercontent.com/4S3HlWdyJ2MiKCQw7CHUayYcNNXZeKpa99X7GktF4_gjtiO77PaNa2oN32zxy9LJpxnolSS98GR0IcUmcmbVGvs4fZkgRSUwnxo3z-dqKHswFbJ76YS7Qp4CxDn_P2E52LiDXy4aEg=m18
+#EXTINF:0 tvg-id="ext" group-title="MOVIE VOD",Band of Brothers8
+https://lh3.googleusercontent.com/Tg6lTAj-l5lAbde2tfaEPHYyFdjURTR2_EQfIFvz9x5kUazgZfVwPwdG1jRxNOjGZFmQaP2BdDZvISuYS3e58eS_tHjOQwmxc4QasgwAKm7ECGzxlID9Yu4c_jgrkPDRM5BEyyRtVg=m18
+#EXTINF:0 tvg-id="ext" group-title="MOVIE VOD",Band of Brothers9
+https://lh3.googleusercontent.com/BgYflpV5n7ki7erXVKuD3jL-kHw13rUDmaK76pxzvUUCLOL7ZKBjHPkFZuzrZnNLdxeU5k7H-pTE3ZELcMuagTl0XfktQZmloUXYykYcvFJ1mEFHBjdcMy3fll5y9upNUc4jH2w3kg=m18
+#EXTINF:0 tvg-id="ext" group-title="MOVIE VOD",Band of Brothers10
+https://lh3.googleusercontent.com/BgYflpV5n7ki7erXVKuD3jL-kHw13rUDmaK76pxzvUUCLOL7ZKBjHPkFZuzrZnNLdxeU5k7H-pTE3ZELcMuagTl0XfktQZmloUXYykYcvFJ1mEFHBjdcMy3fll5y9upNUc4jH2w3kg=m18
 
 #EXTINF:0 tvg-id="avi" group-title="Movie-4k",โคตรปืนเอเลี่ยน (2018) (4K) (TH)
 http://43.255.241.165:1935/4k/kin4k-th.mp4/playlist.m3u8
